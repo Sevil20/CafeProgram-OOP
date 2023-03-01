@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\bin\Debug\net6.0\CafePROGRAM(OOP).exe
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\bin\Debug\net6.0\CafePROGRAM(OOP).deps.json
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\bin\Debug\net6.0\CafePROGRAM(OOP).runtimeconfig.json
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\bin\Debug\net6.0\CafePROGRAM(OOP).dll
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\bin\Debug\net6.0\CafePROGRAM(OOP).pdb
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).AssemblyInfo.cs
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).dll
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\refint\CafePROGRAM(OOP).dll
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).pdb
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\CafePROGRAM(OOP).genruntimeconfig.cache
+C:\Users\hp\source\repos\CafePROGRAM(OOP)\obj\Debug\net6.0\ref\CafePROGRAM(OOP).dll
